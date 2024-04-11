@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "134539831793",
+    "firebase_url": "https://favoritefood-4ce9e-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "favoritefood-4ce9e",
+    "storage_bucket": "favoritefood-4ce9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134539831793:android:033703c24c46ffca3a3c50",
+        "android_client_info": {
+          "package_name": "com.example.firebase_ice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7ngo9HsZDiqGW5g4RkkpOI8b5BtzvrgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
